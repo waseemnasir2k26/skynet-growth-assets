@@ -2,6 +2,10 @@
 
 Public CDN-backed assets for the SkynetLabs GitHub-growth content pack (September 2026).
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 Served via **jsDelivr**, not `raw.githubusercontent.com`. That distinction matters:
 raw GitHub serves media as `application/octet-stream`, which social schedulers reject
 (a video posted from a raw URL fails silently). jsDelivr serves the correct MIME type.
